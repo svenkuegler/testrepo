@@ -1,3 +1,3 @@
-# Test Repository [![Build Status](https://travis-ci.org/svenkuegler/testrepo.svg?branch=master)](https://travis-ci.org/svenkuegler/testrepo)
+# Test Repository [![Build Status](https://travis-ci.org/svenkuegler/testrepo.svg?branch=master)](https://travis-ci.org/svenkuegler/testrepo) [![Code Climate](https://codeclimate.com/github/svenkuegler/testrepo/badges/gpa.svg)](https://codeclimate.com/github/svenkuegler/testrepo) [![Test Coverage](https://codeclimate.com/github/svenkuegler/testrepo/badges/coverage.svg)](https://codeclimate.com/github/svenkuegler/testrepo/coverage) [![Issue Count](https://codeclimate.com/github/svenkuegler/testrepo/badges/issue_count.svg)](https://codeclimate.com/github/svenkuegler/testrepo)
 
 Repository for Testing some GitHub, CI and PHPUnit Stuff
